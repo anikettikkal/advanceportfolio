@@ -1,5 +1,6 @@
 import React from "react";
 import portfolioImage from "../../assets/portfolioImage.png";
+import pdf from "../../assets/aniket.pdf"
 export default function Landing() {
     return (
         <section className="flex flex-col md:flex-row items-center justify-between px-6  lg:px-24 ">
@@ -12,7 +13,7 @@ export default function Landing() {
                     My Portfolio Is A Representation Of All That I’ve Learned And Accomplished As A Computer Science Student.
                 </p>
                 <div className="flex justify-center md:justify-start gap-6 pt-4">
-                    <a href="/Resume/Aniket_Tikkal_Resume.pdf" download className="px-6 py-2 border-2 border-yellow-400 text-yellow-400 rounded-md hover:bg-yellow-400 hover:text-black transition">
+                    <a href={pdf} download className="px-6 py-2 border-2 border-yellow-400 text-yellow-400 rounded-md hover:bg-yellow-400 hover:text-black transition">
                         Resume
                     </a>
                     <a href="#Contact">
