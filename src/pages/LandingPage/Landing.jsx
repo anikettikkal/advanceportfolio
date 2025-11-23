@@ -16,7 +16,7 @@ export default function Landing() {
                     <a href={pdf} download className="px-6 py-2 border-2 border-yellow-400 text-yellow-400 rounded-md hover:bg-yellow-400 hover:text-black transition">
                         Resume
                     </a>
-                    <a href="#Contact">
+                    <a href="#contact">
                         <button className="px-6 py-2 border-2 border-yellow-400 text-yellow-400 rounded-md hover:bg-yellow-400 hover:text-black transition">
                             Hire Me
                         </button>

@@ -13,8 +13,8 @@ const projects = [
         subtitle: "College Notes Platform",
         description: "Responsive React app for college notes, PDFs, question papers, member uploads.",
         tech: ["ReactJS", "NodeJS", "ExpressJS", "MongoDB"],
-        liveLink: "https://live-link2.com",
-        codeLink: "https://github.com/you/noteswala",
+        liveLink: "https://noteswala-thu9.onrender.com/login",
+        codeLink: "https://github.com/anikettikkal/NotesWala",
     },
     {
         image: img4,
@@ -23,7 +23,7 @@ const projects = [
         description: "A complete MERN stack car rental/search web application with admin dashboard.",
         tech: ["React", "MongoDB", "Node", "Express", "Tailwind"],
         liveLink: "https://live-link2.com",
-        codeLink: "https://github.com/you/noteswala",
+        codeLink: "https://github.com/anikettikkal/DriveFinder",
     },
     {
         image: img2,
@@ -31,8 +31,8 @@ const projects = [
         subtitle: "Collection of JS Projects",
         description: "This is simple Project or Website which can be a collection of lots of small project.",
         tech: ["html", "css", "bootstarp", "javascript"],
-        liveLink: "https://live-link2.com",
-        codeLink: "https://github.com/you/noteswala",
+        liveLink: "https://project-bucket.netlify.app/",
+        codeLink: "https://github.com/anikettikkal/project_bucket",
     },
     {
         image: img3,
@@ -40,8 +40,8 @@ const projects = [
         subtitle: "Representation of me & mySelf",
         description: "This is simple Project or A Representation Of All That I've Learned.",
         tech: ["React+vite", "Tailwind", "Javascript"],
-        liveLink: "https://live-link2.com",
-        codeLink: "https://github.com/you/noteswala",
+        liveLink: "https://portfoliocreated-by-aniket.netlify.app/",
+        codeLink: "https://github.com/anikettikkal/advanceportfolio",
     }
 ];
 
